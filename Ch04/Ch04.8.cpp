@@ -19,7 +19,7 @@ int main()
 	cout << "Enter the company name: ";
 	getline(cin, info->name);
 	cout << "Enter the diameter of pizza: ";
-    cin >> info->pizza_diameter;
+        cin >> info->pizza_diameter;
 	cout << "Enter the weight of pizza: ";
 	cin >> info->weight;
 
