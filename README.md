@@ -8,3 +8,5 @@
 * [Chapter03](https://github.com/dandyzzc/C-Primer-Plus-6th-Ans/tree/main/Ch03)
 
 * [Chapter04](https://github.com/dandyzzc/C-Primer-Plus-6th-Ans/blob/main/Ch04)
+
+* [Chapter05](https://github.com/dandyzzc/C-Primer-Plus-6th-Ans/tree/main/Ch05)
