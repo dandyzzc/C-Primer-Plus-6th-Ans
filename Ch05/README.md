@@ -11,3 +11,17 @@
 2.
 ![image](https://user-images.githubusercontent.com/65354319/120811914-17751680-c57f-11eb-8e36-44275ce11733.png)
 
+3.
+![image](https://user-images.githubusercontent.com/65354319/120814573-9a976c00-c581-11eb-82b8-efcfa2f8e430.png)
+
+4.
+![image](https://user-images.githubusercontent.com/65354319/120817116-ffec5c80-c583-11eb-9012-757b1d211e0b.png)
+
+5.
+![image](https://user-images.githubusercontent.com/65354319/120832260-06360500-c593-11eb-9ab2-085d8ca300e7.png)
+
+6.
+![image](https://user-images.githubusercontent.com/65354319/120834224-51511780-c595-11eb-9f15-e44faaaff49f.png)
+
+
+
