@@ -20,3 +20,7 @@
 
 5.
 ![image](https://user-images.githubusercontent.com/65354319/122040850-e8766480-ce0a-11eb-822d-d6f3f6a6d803.png)
+
+6.
+![image](https://user-images.githubusercontent.com/65354319/122096171-d7e0e100-ce40-11eb-9520-f621c8392262.png)
+![image](https://user-images.githubusercontent.com/65354319/122096241-ed560b00-ce40-11eb-9c16-1a0a39dee6a6.png)
