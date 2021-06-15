@@ -1,7 +1,7 @@
-﻿#include<iostream>
+#include<iostream>
 
 using namespace std;
- 
+
 const int strsize = 50;
 void showManu();
 void display_name();
@@ -28,7 +28,7 @@ int main()
 {
 	showManu();
 	char choice;
-	while(cin.get(choice)&&choice!='q')
+	while (cin.get(choice) && choice != 'q')
 	{
 		switch (choice)
 		{
@@ -40,11 +40,11 @@ int main()
 		case'B':
 			display_title();
 			break;
-		case'c':  
+		case'c':
 		case'C':
 			display_bopname();
 			break;
-		case'd': 
+		case'd':
 		case'D':
 			display_pre();
 			break;
@@ -68,18 +68,21 @@ void showManu()
 	cout << "q. quit" << endl;
 }
 void display_name() {
-	for (int i = 0; i < 5; ++i) {
+	for (int i = 0; i < 5; ++i) 
+	{
 		cout << info[i].fullname << endl;
 	}
 
 }
 void display_bopname() {
-	for (int i = 0; i < 5; ++i) {
+	for (int i = 0; i < 5; ++i) 
+	{
 		cout << info[i].bopname << endl;
 	}
 }
 void display_title() {
-	for (int i = 0; i < 5; ++i) {
+	for (int i = 0; i < 5; ++i) 
+	{
 		cout << info[i].title << endl;
 	}
 }
@@ -87,10 +90,17 @@ void display_pre() {
 	for (int i = 0; i < 5; ++i)
 	{
 		if (info[i].preference == 0)
+		{ 
 			cout << info[i].fullname << endl;
+		}
 		else if (info[i].preference == 1)
+		{
 			cout << info[i].title << endl;
+		}
 		else
+		{
 			cout << info[i].bopname << endl;
+		}
+			
 	}
 }
