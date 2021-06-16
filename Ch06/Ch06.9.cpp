@@ -29,7 +29,7 @@ int main()
 	
 	cout << "The number of donors is " << num_donors << endl;
 	
-	char str[30];
+	
 	inFile.get();
 	
 	info*donor = new info[num_donors];
