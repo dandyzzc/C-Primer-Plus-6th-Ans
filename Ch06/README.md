@@ -24,3 +24,7 @@
 6.
 ![image](https://user-images.githubusercontent.com/65354319/122096171-d7e0e100-ce40-11eb-9520-f621c8392262.png)
 ![image](https://user-images.githubusercontent.com/65354319/122096241-ed560b00-ce40-11eb-9c16-1a0a39dee6a6.png)
+
+7.
+![image](https://user-images.githubusercontent.com/65354319/122164996-224a7800-ceaa-11eb-8782-3220926abba2.png)
+
